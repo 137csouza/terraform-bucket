@@ -1,2 +1,2 @@
-name = "bucket-terragrunt"
-region = "us-east-1"
+name = var.name
+region = var.region
